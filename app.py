@@ -37,7 +37,7 @@ TEST_PRED = np.array([.3, .3, .4, .1, .6, .9, .1])
 # page settings
 st.set_page_config(page_title="SER web-app", page_icon=":speech_balloon:", layout="wide")
 # COLOR = "#1f1f2e"
-# BACKGROUND_COLOR = "#d1d1e0"
+# BACKGROUND_COLOR = "#d1d"
 
 
 # @st.cache(hash_funcs={tf_agents.utils.object_identity.ObjectIdentityDictionary: load_model})
